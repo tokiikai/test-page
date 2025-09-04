@@ -1,4 +1,4 @@
-/* ==================================================================== */
+he/* ==================================================================== */
 /* Charadex
 =======================================================================  /
 
@@ -15,7 +15,7 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
+  title: "Aetherea",
   url: "https://charadex-team.github.io/charadex-v1.0/",
   description: `A tool for organizing small ARPGs and species.`
 }
@@ -41,13 +41,6 @@ charadex.sheet = {
   },
 
   options: {
-
-    designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
-    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
 
   }
 
